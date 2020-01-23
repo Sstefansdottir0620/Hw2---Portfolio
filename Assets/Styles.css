@@ -1,0 +1,76 @@
+[class^="col"]{
+    /* border:dotted red; */
+    /* height: 100px; */
+}
+/* .row{
+    border:dashed green .5px;
+    width: 100%;
+} */
+
+a {   
+    color: grey;
+    font-size: 15pt;
+}
+#stefania{
+    font-family: 'Dancing Script', cursive;
+    font-size: 35pt;
+    font-weight: bolder;
+    color: black;
+}
+
+a:hover{
+    color: teal;}
+
+.nav{
+    padding-top: 17pt;
+}
+
+p{
+    display: inline;
+    color: white;
+    font-size: 15px;
+}
+
+#img{
+    padding-right: 10px;
+    padding-left: 0px;
+}
+
+#h1{
+    font-size: 20pt;
+}
+
+
+img{
+    float: left;
+    padding-right: 30px;
+    padding-left: 30px;
+    clear: both;
+
+}
+div{
+    clear: both;
+    
+}
+
+footer{
+    background-color: black;
+    height: 60px;
+    margin-top: 40px;
+    padding: 20px 0px 20px 0px;
+    text-align: center;
+
+}
+
+.container{
+    clear: both;
+    background-color:white;
+
+}
+body{
+    margin:45px;
+}
+
+#message{
+    height: 400px;
+}
