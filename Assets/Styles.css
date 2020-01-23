@@ -13,7 +13,7 @@ a {
 }
 #stefania{
     font-family: 'Dancing Script', cursive;
-    font-size: 35pt;
+    font-size: 50pt;
     font-weight: bolder;
     color: black;
 }
@@ -34,6 +34,7 @@ p{
 #img{
     padding-right: 10px;
     padding-left: 0px;
+    padding-bottom: 15px;
 }
 
 #h1{
